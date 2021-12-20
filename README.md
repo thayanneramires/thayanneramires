@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Thayanne Ramires 👋
 
-- 📚 Acadêmica de Ciências Econômicas
+- 📚 Graduanda em Ciências Econômicas
 - 😄 Pronouns: ela/dela
 
  <div>
