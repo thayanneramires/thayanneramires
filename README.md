@@ -1,6 +1,7 @@
 ### Olá! Eu sou a Thayanne Ramires 👋
 
-- 📚 Graduanda em Ciências Econômicas
+- 📊 Business Intelligence Developer
+- 📚 Bacharel em Ciências Econômicas
 - 😄 Pronouns: ela/dela
 
  <div>
