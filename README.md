@@ -9,7 +9,7 @@
 <img align="center" alt="PowerBI" height="40" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png">
 <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="RStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg">
-<img align="center" alt="Excel" height="40" width="40" src="https://w7.pngwing.com/pngs/957/261/png-transparent-microsoft-excel-logo-microsoft-excel-computer-icons-spreadsheet-computer-software-microsoft-angle-text-rectangle.png">
+<img align="center" alt="Excel" height="40" width="40" src="https://e7.pngegg.com/pngimages/957/261/png-clipart-microsoft-excel-logo-microsoft-excel-computer-icons-spreadsheet-computer-software-microsoft-angle-text.png">
 </div>
  
    ##
