@@ -7,7 +7,6 @@
  <div>
   <a href="https://github.com/thayanneramires">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thayanneramires&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayanneramires&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Power BI" height="60" width="70" src="https://e7.pngegg.com/pngimages/820/213/png-clipart-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates.png">
