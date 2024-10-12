@@ -8,9 +8,8 @@
   <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="PowerBI" height="40" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jupyter" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Excel" height="30" width="40" src="https://w7.pngwing.com/pngs/957/261/png-transparent-microsoft-excel-logo-microsoft-excel-computer-icons-spreadsheet-computer-software-microsoft-angle-text-rectangle.png">
+  <img align="center" alt="R" height="40" width="40" src="https://img2.gratispng.com/20180925/qsr/kisspng-rstudio-data-analysis-logo-datacamp-inc-editorial-clipart-collection-68-1713931992722.webp">
+  <img align="center" alt="Excel" height="40" width="40" src="https://w7.pngwing.com/pngs/957/261/png-transparent-microsoft-excel-logo-microsoft-excel-computer-icons-spreadsheet-computer-software-microsoft-angle-text-rectangle.png">
 </div>
  
    ##
