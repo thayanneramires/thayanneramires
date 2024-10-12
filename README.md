@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayanneramires&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Power BI" height="30" width="40" src="https://banner2.cleanpng.com/20190206/ghr/kisspng-power-bi-logo-business-intelligence-font-data-datacarrot-bespoke-development-service-1713908033573.webp">
+  <img align="center" alt="Power BI" height="30" width="40" src="https://www.meltone.com/wp-content/uploads/2023/03/Sans-titre-2023-03-31T162210.850.png">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jupyter" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="VBA" height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/flat-design-development-set-1/24/file-type-vba-512.png">
