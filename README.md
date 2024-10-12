@@ -4,11 +4,8 @@
 - 📚 Bacharel em Ciências Econômicas
 - 😄 Pronouns: ela/dela
 
- <div>
-  <a href="https://github.com/thayanneramires">
-</div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Power BI" height="60" width="70" src="https://e7.pngegg.com/pngimages/820/213/png-clipart-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates.png">
+  <img align="center" alt="Power BI" height="60" width="70" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jupyter" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="VBA" height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/flat-design-development-set-1/24/file-type-vba-512.png">
