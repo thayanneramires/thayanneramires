@@ -3,7 +3,6 @@
 - 📊 Analista de Dados
 - 🎓 Bacharel em Ciências Econômicas
 - 📚 Pós-graduanda em Ciência de Dados
-- 😄 Pronouns: ela/dela
 <div style="display: inline_block"><br>
 <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
 <img align="center" alt="PowerBI" height="40" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png">
